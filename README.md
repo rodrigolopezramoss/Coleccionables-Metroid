@@ -52,6 +52,7 @@ Y esta es la página que se presenta al validar la modificación(Ocurre lo mismo
 
 
 6.El VÍDEO DESCRIPTIVO
+
 En el que relato la transición dentro del Crud y expongo su código.
 Enlace: https://youtu.be/LeBDBuNEb68
 
