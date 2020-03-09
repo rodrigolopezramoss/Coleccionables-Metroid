@@ -7,4 +7,4 @@ Este Crud tiene como objetivo ser una guía de coleccionables o expansiones de u
 El Crud permite las altas, bajas y modificaciones de los coleccionables, así como de los distintos juegos de esta saga y de las distintas zonas que se dan en los mismos.
 
 1.Iniciar Sesión
-(https://github.com/rodrigolopezramoss/Coleccionables-Metroid/blob/master/capturas/ubuntu1804_v03-2020-03-09-17-33-32.png)
+(https://github.io/rodrigolopezramoss/Coleccionables-Metroid/blob/master/capturas/ubuntu1804_v03-2020-03-09-17-33-32.png)
