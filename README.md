@@ -8,4 +8,4 @@ El Crud permite las altas, bajas y modificaciones de los coleccionables, así co
 
 1.Iniciar Sesión
 
-(https://github.io/rodrigolopezramoss/Coleccionables-Metroid/blob/master/capturas/ubuntu1804_v03-2020-03-09-17-33-32.png)
+![alt text](https://github.com/rodrigolopezramoss/Coleccionables-Metroid/blob/master/capturas/ubuntu1804_v03-2020-03-09-17-33-32.png)
